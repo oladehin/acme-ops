@@ -6,7 +6,7 @@
 - Prepare welcome packet and schedule.
 
 ## Week 1
-- Provide workspace tour and introductions.
+- Provide workspace tour.
 - Review key policies and procedures.
 - Assign a buddy and set expectations.
 
@@ -14,3 +14,4 @@
 - Schedule check-ins with manager.
 - Review role goals and success metrics.
 - Capture early feedback and questions.
+- And adding one more here
